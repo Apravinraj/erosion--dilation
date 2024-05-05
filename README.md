@@ -24,6 +24,7 @@ Dilate the Image
  
 ## Program:
 DEVELOPED BY : Pravin Raj A
+
 REGISTER NO: 212222240079
 ``` Python
 # Import the necessary packages
